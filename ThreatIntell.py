@@ -49,9 +49,9 @@ def filter_top_articles(articles):
 # Function to send email
 
 def send_email(articles):
-    sender_email = "sfrandsen@ceriumnetworks.com"
-    receiver_email = "soc_team@ceriumnetworks.com"
-    password = "Yk27x93d3292"  # Consider using environment variables
+    sender_email = 
+    receiver_email = 
+    password =  # Consider using environment variables
     print(f"Sender Email: {sender_email}")
     print(f"Receiver Email: {receiver_email}")
     print(f"Password: {'SET' if password else 'NOT SET'}")  # Hides actual password for security
